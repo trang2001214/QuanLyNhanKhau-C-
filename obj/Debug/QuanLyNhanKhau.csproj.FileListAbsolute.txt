@@ -1,0 +1,12 @@
+C:\Users\Laptop88\source\repos\QuanLyNhanKhau\bin\Debug\QuanLyNhanKhau.exe
+C:\Users\Laptop88\source\repos\QuanLyNhanKhau\bin\Debug\QuanLyNhanKhau.pdb
+C:\Users\Laptop88\source\repos\QuanLyNhanKhau\obj\Debug\QuanLyNhanKhau.csproj.AssemblyReference.cache
+C:\Users\Laptop88\source\repos\QuanLyNhanKhau\obj\Debug\QuanLyNhanKhau.Form1.resources
+C:\Users\Laptop88\source\repos\QuanLyNhanKhau\obj\Debug\QuanLyNhanKhau.Properties.Resources.resources
+C:\Users\Laptop88\source\repos\QuanLyNhanKhau\obj\Debug\QuanLyNhanKhau.csproj.GenerateResource.cache
+C:\Users\Laptop88\source\repos\QuanLyNhanKhau\obj\Debug\QuanLyNhanKhau.csproj.CoreCompileInputs.cache
+C:\Users\Laptop88\source\repos\QuanLyNhanKhau\obj\Debug\QuanLyNhanKhau.exe
+C:\Users\Laptop88\source\repos\QuanLyNhanKhau\obj\Debug\QuanLyNhanKhau.pdb
+C:\Users\Laptop88\source\repos\QuanLyNhanKhau\obj\Debug\QuanLyNhanKhau.Quan.resources
+C:\Users\Laptop88\source\repos\QuanLyNhanKhau\obj\Debug\QuanLyNhanKhau.Phuong.resources
+C:\Users\Laptop88\source\repos\QuanLyNhanKhau\obj\Debug\QuanLyNhanKhau.ToDanPho.resources
